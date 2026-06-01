@@ -10,7 +10,7 @@
 ---
 
 ### Astro Platform
-GitOps-native cluster and application lifecycle management. Create, register, upgrade, scale, and roll back clusters and apps across any cloud — with governance and audit built in.
+One control plane for cluster and application lifecycle across EKS, GKE, AKS, and self-hosted Kubernetes. Register any cluster, deploy any app, roll back, upgrade, and audit — all from one surface.
 
 ### Nova — Your AI Platform Engineer
 
