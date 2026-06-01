@@ -12,8 +12,11 @@
 ### Astro Platform
 GitOps-native cluster and application lifecycle management. Create, register, upgrade, scale, and roll back clusters and apps across any cloud — with governance and audit built in.
 
-### Nova
-AI-powered SRE agent. Deploy to production, run evidence-led incident investigations, and execute approved remediation — all from one conversational workspace.
+### Nova — Your AI Platform Engineer
+
+<img src="https://astropulse.io/images/nova-selection.png" alt="Nova — Deploy, Investigate, Operate" width="100%" />
+
+Deploy to production, run evidence-led incident investigations, and execute approved remediation. Available as a managed cloud, self-hosted, or direct editor integration (Claude Code, Cursor, VS Code).
 
 ---
 
