@@ -16,7 +16,28 @@ One control plane for cluster and application lifecycle across EKS, GKE, AKS, an
 
 <img src="https://astropulse.io/images/nova-selection.png" alt="Nova — Deploy, Investigate, Operate" width="100%" />
 
-Deploy to production, run evidence-led incident investigations, and execute approved remediation. Available as a managed cloud, self-hosted, or direct editor integration (Claude Code, Cursor, VS Code).
+Deploy to production, run evidence-led incident investigations, and execute approved remediation. Available as a managed cloud workspace or direct editor integration (Claude Code, Cursor, VS Code).
+
+---
+
+## Docs
+
+| | |
+|---|---|
+| [Nova](https://astropulse.io/docs/nova) | Get started with Nova — deploy, investigate, and operate |
+| [Astro Platform](https://astropulse.io/docs/latest/platform) | Cluster and application lifecycle management |
+| [astroctl CLI](https://astropulse.io/docs/latest/cli) | Full CLI reference for `astroctl` |
+| [API Reference](https://astropulse.io/docs/latest/api) | REST API reference |
+
+---
+
+## From the Blog
+
+- [How We Designed Nova's Investigation Engine — Lessons from SRE at Scale](https://astropulse.io/docs/blog/nova-investigation-architecture)
+- [Bring Your Own Kubernetes Cluster](https://astropulse.io/docs/blog/bring-your-own-kubernetes)
+- [The Hardest Problems in Building Production AI Agents](https://astropulse.io/docs/blog/building-nova-cloud-platform-engineering)
+- [One AI, Every Interface](https://astropulse.io/docs/blog/nova-every-interface)
+- [Meet Nova — Your AI Platform Engineer](https://astropulse.io/docs/blog/nova-ai-platform-engineering-vision)
 
 ---
 
