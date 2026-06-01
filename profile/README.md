@@ -1,8 +1,8 @@
 # AstroPulse
 
-**The platform that unifies cluster and application pipelines — with an AI SRE built in.**
+Deploy applications, investigate incidents, and operate safely — from your editor, browser, or CLI.
 
-AstroPulse gives platform and SRE teams a single surface to deploy, investigate, and operate Kubernetes workloads across any cloud. Nova, our AI agent, turns natural language into safe, auditable infrastructure actions.
+AstroPulse gives platform and SRE teams one surface for the full lifecycle. Nova, our AI agent, turns natural language into safe, auditable infrastructure actions across any cloud.
 
 ---
 
