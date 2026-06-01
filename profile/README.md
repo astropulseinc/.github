@@ -23,7 +23,6 @@ AI-powered SRE agent. Deploy to production, run evidence-led incident investigat
 |------|-------------|
 | [astro-platform-apps](https://github.com/astropulseinc/astro-platform-apps) | Example manifests for deploying apps via the Astro Platform Regional API |
 | [homebrew-astroctl](https://github.com/astropulseinc/homebrew-astroctl) | Homebrew tap — install `astroctl` on macOS |
-| [mcpo](https://github.com/astropulseinc/mcpo) | Open-source MCP-to-OpenAPI proxy server |
 
 ---
 
