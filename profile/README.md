@@ -46,7 +46,6 @@ Deploy to production, run evidence-led incident investigations, and execute appr
 | Repo | Description |
 |------|-------------|
 | [astro-platform-apps](https://github.com/astropulseinc/astro-platform-apps) | Example manifests for deploying apps via the Astro Platform Regional API |
-| [homebrew-astroctl](https://github.com/astropulseinc/homebrew-astroctl) | `astroctl` — the CLI for managing clusters, apps, and Nova from your terminal |
 
 ---
 
