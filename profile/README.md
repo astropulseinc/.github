@@ -25,9 +25,9 @@ Deploy to production, run evidence-led incident investigations, and execute appr
 | | |
 |---|---|
 | [Nova](https://astropulse.io/docs/nova) | Get started with Nova — deploy, investigate, and operate |
-| [Astro Platform](https://astropulse.io/docs/latest/platform) | Cluster and application lifecycle management |
-| [astroctl CLI](https://astropulse.io/docs/latest/cli) | Full CLI reference for `astroctl` |
-| [API Reference](https://astropulse.io/docs/latest/api) | REST API reference |
+| [Astro Platform](https://astropulse.io/docs/latest/platform/intro) | Cluster and application lifecycle management |
+| [astroctl CLI](https://astropulse.io/docs/latest/cli/astroctl) | Full CLI reference for `astroctl` |
+| [API Reference](https://astropulse.io/docs/api/) | REST API reference |
 
 ---
 
@@ -52,7 +52,7 @@ Deploy to production, run evidence-led incident investigations, and execute appr
 
 <div align="center">
 
-<a href="https://astropulse.io/docs" target="_blank">
+<a href="https://astropulse.io/docs/latest" target="_blank">
 <img src="https://img.shields.io/badge/docs-astropulse.io-6D28D9?style=for-the-badge&logo=gitbook&logoColor=white" alt="Docs" /></a>
 &nbsp;
 <a href="https://x.com/astropulseinc" target="_blank">
