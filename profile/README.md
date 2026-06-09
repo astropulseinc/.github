@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://astropulse.io/images/astropulse_logo_exact_final.svg" height="60" alt="AstroPulse" />
+  <img src="https://astropulse.io/images/astropulse_logo_exact_final.svg" height="80" alt="AstroPulse" />
 
   <br /><br />
 
-  Deploy applications, investigate incidents, and operate safely — from your editor, browser, or CLI.
+  <h3>Deploy applications, investigate incidents, and operate safely — from your editor, browser, or CLI.</h3>
 
 </div>
 
