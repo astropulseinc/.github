@@ -21,9 +21,26 @@ The production control plane for teams building AI infrastructure products. Keep
 
 ### Nova — the trust layer for AI operations
 
-<img src="https://astropulse.io/images/nova-selection.png" alt="Nova — Deploy, Investigate, Operate" width="100%" />
-
 Nova is the AI platform engineer for building, deploying and operating AI infrastructure — with durable plans, skill-driven workflows, evidence-based investigations and governed operations. Use it as a managed cloud workspace or straight from your AI editor.
+
+---
+
+## Solutions
+
+| | |
+|---|---|
+| [AI Infrastructure](https://astropulse.io/solutions/ai-infrastructure) | Build inference, training and agent infrastructure in your cloud — keep your serving runtime and routing IP |
+| [AI SRE](https://astropulse.io/solutions/ai-sre) | Investigate incidents with Nova, review evidence and fixes, approve changes and verify recovery |
+| [Internal Developer Platform](https://astropulse.io/solutions/internal-developer-platform) | Deploy apps, services and AI models through one platform with shared standards |
+
+## Examples
+
+Step-by-step walkthroughs — [browse all examples →](https://astropulse.io/docs/examples)
+
+- [Deploy an open model](https://astropulse.io/docs/examples/getting-started/deploy-an-open-model) · [Ship from your AI editor](https://astropulse.io/docs/examples/getting-started/ship-from-your-ai-editor)
+- [Production AI inference](https://astropulse.io/docs/examples/ai-infrastructure/production-ai-inference) — serve models, scale GPU nodes, release safely, watch metrics and cost
+- [Build an AI SRE on-call](https://astropulse.io/docs/examples/ai-platform-engineer/ai-sre/build-an-ai-sre-on-call) — investigate a failing app, approve the fix, write the postmortem
+- [Path to production](https://astropulse.io/docs/examples/internal-developer-platform/path-to-production) — set up the cluster, ship and roll back, scan, see what it costs
 
 ---
 
@@ -32,7 +49,6 @@ Nova is the AI platform engineer for building, deploying and operating AI infras
 | | |
 |---|---|
 | [Getting started](https://astropulse.io/docs/latest/platform/getting-started/setting-up) | Set up Astro Platform and deploy your first app |
-| [Deploy an open model](https://astropulse.io/docs/examples/getting-started/deploy-an-open-model) | Serve a model in your own cloud, end to end |
 | [AI inference blueprint](https://astropulse.io/docs/latest/platform/blueprints/ai-inference) | Reference architecture for production inference |
 | [Add-ons](https://astropulse.io/docs/latest/platform/cluster-pipeline/add-ons) | Managed cluster add-ons and what each one does |
 | [Nova](https://astropulse.io/docs/nova) | Build, deploy, investigate and operate with Nova |
