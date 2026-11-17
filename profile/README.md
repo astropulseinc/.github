@@ -19,7 +19,7 @@ Nova is the AI platform engineer for building, deploying and operating AI infras
 
 ## Solutions
 
-| | |
+| Solution | What it does |
 |---|---|
 | [AI Infrastructure](https://astropulse.io/solutions/ai-infrastructure) | Build inference, training and agent infrastructure in your cloud — keep your serving runtime and routing IP |
 | [AI SRE](https://astropulse.io/solutions/ai-sre) | Investigate incidents with Nova, review evidence and fixes, approve changes and verify recovery |
@@ -38,7 +38,7 @@ Step-by-step walkthroughs — [browse all examples →](https://astropulse.io/do
 
 ## Docs
 
-| | |
+| Doc | What you'll find |
 |---|---|
 | [Getting started](https://astropulse.io/docs/latest/platform/getting-started/setting-up) | Set up Astro Platform and deploy your first app |
 | [AI inference blueprint](https://astropulse.io/docs/latest/platform/blueprints/ai-inference) | Reference architecture for production inference |
@@ -83,7 +83,10 @@ Step-by-step walkthroughs — [browse all examples →](https://astropulse.io/do
 <a href="https://x.com/astropulseinc" target="_blank">
 <img src="https://img.shields.io/badge/x (twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/company/astropulse" target="_blank">
+<a href="https://www.linkedin.com/company/astropulseinc" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://www.youtube.com/@astropulseinc" target="_blank">
+<img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 
 </div>
