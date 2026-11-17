@@ -1,12 +1,4 @@
-<div align="center">
-  <img src="https://astropulse.io/images/astropulse_logo_exact_final.svg" height="80" alt="AstroPulse" />
-
-  <br /><br />
-
-  <h3>AI infrastructure. Build what matters.</h3>
-  <p>Run AI in production without building the platform first.</p>
-
-</div>
+<a href="https://astropulse.io"><img src="https://astropulse.io/images/og-default-v2.png" alt="AstroPulse — AI infrastructure. Build what matters. Run your AI products in your own cloud, without building the production machinery underneath." width="100%" /></a>
 
 ---
 
